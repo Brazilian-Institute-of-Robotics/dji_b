@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="drone_simulation" type="move.py" name="airsim_move" output="screen"/>
+</launch>
